@@ -1,11 +1,11 @@
-DSA Notes
+DSA Learning Notes
 
-Currently covered topic:
+This repository is created to store simple and easy-to-understand
+notes on Data Structures and Algorithms.
 
-• Binary Search  
-  A fast method to locate an element in a sorted array by repeatedly dividing the search space.
-
-• Linear Search  
-  Simple searching method that checks elements one by one.
+Topics Covered
+- Binary Search – Efficient search for sorted data.
+- Linear Search – Basic method to find an element.
 
 More topics will be added as learning continues.
+
