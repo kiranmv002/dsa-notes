@@ -8,6 +8,6 @@ Topics Covered
 - Linear Search – Basic method to find an element.
 - Linear vs Binary Search – Comparison of searching techniques.
 - Searching Examples – Practical examples of searching algorithms.
-
+- Searching Time Complexity – Best, average, and worst cases.
 More topics will be added as learning continues.
 
