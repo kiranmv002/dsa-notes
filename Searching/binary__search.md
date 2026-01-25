@@ -43,3 +43,8 @@ Time Complexity:
 - Worst Case: O(log n)
 
 Used widely in large datasets for faster searching.
+
+Key Points:
+- Binary Search reduces the search space in each step
+- It is much faster than linear search for large datasets
+- The input data must be sorted before applying binary search
