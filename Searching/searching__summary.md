@@ -9,6 +9,7 @@ Topics Covered in Searching:
 - Searching examples
 - Time complexity analysis
 
+
 Key Takeaways:
 - Linear Search is simple and works on any data
 - Binary Search is faster but requires sorted input
