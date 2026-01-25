@@ -36,3 +36,8 @@ Best Case: O(1)
 Worst Case: O(n)
 
 This method is easy to understand but slow for large data sets.
+
+Key Points:
+- Linear Search is easy to implement
+- It does not require sorted data
+- Performance decreases as data size increases
