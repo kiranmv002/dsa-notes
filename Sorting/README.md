@@ -1,5 +1,6 @@
 Sorting Notes
 
+Sorting is used to arrange data in a specific order, usually ascending or descending.
 This repository is created to store simple and easy-to-understand notes on sorting algorithms.
 
 Topics Covered
