@@ -3,7 +3,7 @@ Sorting Examples
 Examples help in understanding how sorting algorithms
 work step by step.
 
-Example 1: Bubble Sort
+Example : Bubble Sort
 
 Array: [4, 1, 3, 2]
 
