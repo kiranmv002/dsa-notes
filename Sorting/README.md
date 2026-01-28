@@ -15,5 +15,7 @@ Topics Covered
 
 • Sorting Time Complexity – Best and worst case analysis of sorting algorithms.
 
+• Sorting Examples – Step-by-step examples of sorting algorithms.
+
 More sorting algorithms will be added as learning continues.
 
