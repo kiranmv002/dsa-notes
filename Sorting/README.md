@@ -17,6 +17,5 @@ Topics Covered
 
 • Sorting Examples – Step-by-step examples of sorting algorithms.
 
-
 More sorting algorithms will be added as learning continues.
 
