@@ -11,5 +11,7 @@ Topics Covered
 
 • Insertion Sort – Sorting by inserting elements into their correct position.
 
+• Sorting Comparison – Comparison of Bubble, Selection, and Insertion Sort.
+
 More sorting algorithms will be added as learning continues.
 
