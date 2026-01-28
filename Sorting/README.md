@@ -13,5 +13,7 @@ Topics Covered
 
 • Sorting Comparison – Comparison of Bubble, Selection, and Insertion Sort.
 
+• Sorting Time Complexity – Best and worst case analysis of sorting algorithms.
+
 More sorting algorithms will be added as learning continues.
 
