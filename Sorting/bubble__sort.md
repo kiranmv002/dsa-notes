@@ -42,3 +42,6 @@ Worst Case: O(n²)
 
 Bubble Sort is easy to understand but not efficient
 for large datasets.
+
+Note:
+Bubble Sort is mainly used for learning purposes.
