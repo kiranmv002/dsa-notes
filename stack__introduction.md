@@ -1,3 +1,4 @@
+
 Stack Introduction
 
 A Stack is a linear data structure.
@@ -7,6 +8,7 @@ This means the element added last
 will be removed first.
 
 Basic Operations:
+
 - Push: Add an element to the stack
 - Pop: Remove the top element from the stack
 - Peek: View the top element
