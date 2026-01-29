@@ -13,7 +13,9 @@ Basic Operations:
 - Pop: Remove the top element from the stack
 - Peek: View the top element
 
+
 Example:
+
 Stack elements: [10, 20, 30]
 
 Push 40 → [10, 20, 30, 40]
