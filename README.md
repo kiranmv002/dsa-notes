@@ -8,5 +8,7 @@ Topics Covered
 
 • Stack Operations – Push, Pop, and Peek operations.
 
+• Stack Implementation using Array.
+
 More stack topics will be added as learning continues.
 
