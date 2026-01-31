@@ -12,5 +12,7 @@ Topics Covered
 
 • Stack Implementation using Linked List.
 
+• Applications of Stack.
+
 More stack topics will be added as learning continues.
 
