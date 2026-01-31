@@ -10,5 +10,7 @@ Topics Covered
 
 • Stack Implementation using Array.
 
+• Stack Implementation using Linked List.
+
 More stack topics will be added as learning continues.
 
