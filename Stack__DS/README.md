@@ -16,4 +16,6 @@ Topics Covered
 
 • Stack Time Complexity – Time complexity of basic stack operations.
 
+• Stack Summary – Overall revision of stack concepts.
+
 More stack topics will be added as learning continues.
