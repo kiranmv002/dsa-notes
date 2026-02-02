@@ -14,4 +14,6 @@ Topics Covered
 
 • Applications of Stack.
 
+• Stack Time Complexity – Time complexity of basic stack operations.
+
 More stack topics will be added as learning continues.
