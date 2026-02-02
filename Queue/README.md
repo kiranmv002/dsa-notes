@@ -8,4 +8,6 @@ Topics Covered
 
 • Queue Introduction – Basics of queue and FIFO principle.
 
+• Queue Operations – Enqueue, Dequeue, and Front operations.
+
 More queue topics will be added as learning continues.
