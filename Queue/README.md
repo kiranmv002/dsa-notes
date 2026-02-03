@@ -12,4 +12,6 @@ Topics Covered
 
 • Queue Implementation using Array.
 
+• Queue Implementation using Linked List.
+
 More queue topics will be added as learning continues.
