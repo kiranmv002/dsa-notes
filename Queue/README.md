@@ -10,4 +10,6 @@ Topics Covered
 
 • Queue Operations – Enqueue, Dequeue, and Front operations.
 
+• Queue Implementation using Array.
+
 More queue topics will be added as learning continues.
