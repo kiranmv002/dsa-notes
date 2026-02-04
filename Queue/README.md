@@ -14,4 +14,6 @@ Topics Covered
 
 • Queue Implementation using Linked List.
 
+• Applications of Queue.
+
 More queue topics will be added as learning continues.
