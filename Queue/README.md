@@ -16,4 +16,6 @@ Topics Covered
 
 • Applications of Queue.
 
+• Queue Time Complexity – Time complexity of queue operations.
+
 More queue topics will be added as learning continues.
