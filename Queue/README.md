@@ -18,4 +18,6 @@ Topics Covered
 
 • Queue Time Complexity – Time complexity of queue operations.
 
+• Queue Summary – Overall revision of queue concepts.
+
 More queue topics will be added as learning continues.
