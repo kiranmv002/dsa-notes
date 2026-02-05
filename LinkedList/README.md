@@ -9,4 +9,6 @@ Topics Covered
 
 * Types of Linked List – Singly, Doubly, and Circular linked lists.
 
+* Linked List Implementation – Creating and linking nodes.
+
 More linked list topics will be added as learning continues.nano README.mdLinked List Introduction
