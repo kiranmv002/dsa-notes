@@ -11,4 +11,7 @@ Topics Covered
 
 * Linked List Implementation – Creating and linking nodes.
 
-More linked list topics will be added as learning continues.nano README.mdLinked List Introduction
+* Applications of Linked List – Real-world uses of linked lists.
+
+More linked list topics will be added as learning continues.
+
