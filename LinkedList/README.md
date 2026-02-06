@@ -13,5 +13,7 @@ Topics Covered
 
 * Applications of Linked List – Real-world uses of linked lists.
 
+* Time Complexity of Linked List – Performance analysis of operations.
+
 More linked list topics will be added as learning continues.
 
