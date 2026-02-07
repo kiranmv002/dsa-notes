@@ -15,5 +15,7 @@ Topics Covered
 
 * Time Complexity of Linked List – Performance analysis of operations.
 
+* Linked List Summary – Key concepts and final overview.
+
 More linked list topics will be added as learning continues.
 
