@@ -47,6 +47,14 @@ How to Use This Repository
 - Start reading topics from the basics and move forward gradually
 - These notes can be used for learning, revision, and quick reference
 
+Learning Approach
+
+- Concepts are learned one topic at a time to build strong fundamentals
+- Focus is on clarity and understanding rather than complex implementations
+- Notes are written in simple language for easy revision
+- Topics are revisited and improved as learning progresses
+
+
 Purpose of This Repository
 - Build strong fundamentals in Data Structures and Algorithms
 - Maintain clean and readable notes for revision
