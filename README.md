@@ -31,6 +31,15 @@ Stack
 - Applications of Stack
 - Stack Time Complexity
 
+Linked List
+- Linked List Introduction
+- Linked List Operations
+- Types of Linked List
+- Linked List Implementation
+- Applications of Linked List
+- Linked List Time Complexity
+- Linked List Summary
+
 Purpose of This Repository
 - Build strong fundamentals in Data Structures and Algorithms
 - Maintain clean and readable notes for revision
