@@ -40,6 +40,13 @@ Linked List
 - Linked List Time Complexity
 - Linked List Summary
 
+How to Use This Repository
+
+- Each Data Structure and Algorithm topic is organized in a separate folder
+- Files inside each folder are written in a simple and step-by-step manner
+- Start reading topics from the basics and move forward gradually
+- These notes can be used for learning, revision, and quick reference
+
 Purpose of This Repository
 - Build strong fundamentals in Data Structures and Algorithms
 - Maintain clean and readable notes for revision
