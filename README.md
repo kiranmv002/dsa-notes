@@ -1,16 +1,16 @@
-DSA Learning Notes
+# DSA Learning Notes
 
-This repository contains simple, structured, and easy-to-understand notes
-on Data Structures and Algorithms (DSA).
+This repository contains **simple**, **structured** notes on  
+**Data Structures and Algorithms (DSA)** for learning and revision.
 
-It is created for learning, revision, and consistent practice,
-with a focus on building strong fundamentals.
+The focus is on building **strong fundamentals** through
+consistent practice and clear explanations.
 
-━━━━━━━━━━━━━━━━━━━━━━
-📂 Folder Structure
-━━━━━━━━━━━━━━━━━━━━━━
+---
 
-🔍 Searching
+## Folder Structure
+
+🔍 **Searching**
 - Binary Search
 - Linear Search
 - Linear vs Binary Search
@@ -18,7 +18,7 @@ with a focus on building strong fundamentals.
 - Searching Time Complexity
 - Searching Summary
 
-🔃 Sorting
+🔃 **Sorting**
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
@@ -27,7 +27,7 @@ with a focus on building strong fundamentals.
 - Sorting Examples
 - Sorting Summary
 
-📚 Stack
+📚 **Stack**
 - Stack Introduction
 - Stack Operations
 - Stack Implementation using Array
@@ -35,7 +35,7 @@ with a focus on building strong fundamentals.
 - Applications of Stack
 - Stack Time Complexity
 
-🔗 Linked List
+🔗 **Linked List**
 - Linked List Introduction
 - Linked List Operations
 - Types of Linked List
@@ -44,7 +44,7 @@ with a focus on building strong fundamentals.
 - Linked List Time Complexity
 - Linked List Summary
 
-🚦 Queue
+🚦 **Queue**
 - Queue Introduction
 - Queue Operations
 - Queue Implementation using Array
@@ -53,40 +53,33 @@ with a focus on building strong fundamentals.
 - Queue Time Complexity
 - Queue Summary
 
-━━━━━━━━━━━━━━━━━━━━━━
-📖 How to Use This Repository
-━━━━━━━━━━━━━━━━━━━━━━
+---
 
-- Each Data Structure and Algorithm topic is organized in a separate folder
-- Files inside each folder are written in a simple and step-by-step manner
-- Start reading topics from the basics and move forward gradually
-- These notes can be used for learning, revision, and quick reference
+## How to Use This Repository
 
-━━━━━━━━━━━━━━━━━━━━━━
-🧠 Learning Approach
-━━━━━━━━━━━━━━━━━━━━━━
+- Each **DSA topic** is organized in a separate folder  
+- Topics are explained in a **step-by-step** manner  
+- Start from **basics** and move forward gradually  
+- Useful for **learning**, **revision**, and quick reference  
 
-- Concepts are learned one topic at a time to build strong fundamentals
-- Focus is on clarity and understanding rather than complex implementations
-- Notes are written in simple language for easy revision
-- Topics are revisited and improved as learning progresses
+---
 
-━━━━━━━━━━━━━━━━━━━━━━
-🎯 Purpose of This Repository
-━━━━━━━━━━━━━━━━━━━━━━
+## Learning Approach
 
-- Build strong fundamentals in Data Structures and Algorithms
-- Maintain clean and readable notes for revision
+- Learn **one topic at a time**
+- Focus on **understanding**, not memorization
+- Notes are written in **simple language**
+- Topics are improved as learning progresses
+
+---
+
+## Purpose of This Repository
+
+- Build **strong DSA fundamentals**
+- Maintain **clean and readable notes**
 - Practice concepts step by step
-- Develop consistency through regular GitHub updates
+- Develop **consistency** through GitHub updates
 
-━━━━━━━━━━━━━━━━━━━━━━
-📝 Notes
-━━━━━━━━━━━━━━━━━━━━━━
-
-- All explanations are written in simple language
-- Topics are added gradually as learning progresses
-- Each topic is organized in its own folder
-- The focus is on understanding concepts, not just memorizing
+---
 
 More DSA topics will be added as learning continues.
