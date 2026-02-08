@@ -1,12 +1,16 @@
-DSA Learning Notes
+# DSA Learning Notes
 
-This repository contains simple, structured, and easy-to-understand
-notes on Data Structures and Algorithms (DSA).
-It is created for learning, revision, and consistent practice.
+This repository contains **simple**, **structured** notes on  
+**Data Structures and Algorithms (DSA)** for learning and revision.
 
-Folder Structure
+The focus is on building **strong fundamentals** through
+consistent practice and clear explanations.
 
-Searching
+---
+
+## Folder Structure
+
+🔍 **Searching**
 - Binary Search
 - Linear Search
 - Linear vs Binary Search
@@ -14,7 +18,7 @@ Searching
 - Searching Time Complexity
 - Searching Summary
 
-Sorting
+🔃 **Sorting**
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
@@ -23,7 +27,7 @@ Sorting
 - Sorting Examples
 - Sorting Summary
 
-Stack
+📚 **Stack**
 - Stack Introduction
 - Stack Operations
 - Stack Implementation using Array
@@ -31,15 +35,51 @@ Stack
 - Applications of Stack
 - Stack Time Complexity
 
-Purpose of This Repository
-- Build strong fundamentals in Data Structures and Algorithms
-- Maintain clean and readable notes for revision
-- Practice concepts step by step
-- Develop consistency through regular GitHub updates
+🔗 **Linked List**
+- Linked List Introduction
+- Linked List Operations
+- Types of Linked List
+- Linked List Implementation
+- Applications of Linked List
+- Linked List Time Complexity
+- Linked List Summary
 
-Notes
-- All explanations are written in simple language
-- Content is updated gradually as learning progresses
-- Each topic is organized in its own folder
+🚦 **Queue**
+- Queue Introduction
+- Queue Operations
+- Queue Implementation using Array
+- Queue Implementation using Linked List
+- Applications of Queue
+- Queue Time Complexity
+- Queue Summary
+
+---
+
+## How to Use This Repository
+
+- Each **DSA topic** is organized in a separate folder  
+- Topics are explained in a **step-by-step** manner  
+- Start from **basics** and move forward gradually  
+- Useful for **learning**, **revision**, and quick reference  
+
+---
+
+## Learning Approach
+
+- Learn **one topic at a time**
+- Focus on **understanding**, not memorization
+- Notes are written in **simple language**
+- Topics are improved as learning progresses
+
+---
+
+## Purpose of This Repository
+
+- Build **strong DSA fundamentals**
+- Maintain **clean and readable notes**
+- Practice concepts step by step
+- Develop **consistency** through GitHub updates
+
+---
 
 More DSA topics will be added as learning continues.
