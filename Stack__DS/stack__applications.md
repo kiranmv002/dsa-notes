@@ -42,7 +42,6 @@ C → B → A
 Reversed string: "CBA"
 
 Pseudo Code:
-
 ReverseString(str):
     for each character ch in str:
         push(ch)
@@ -50,6 +49,7 @@ ReverseString(str):
         pop and print character
 
 Time Complexity:
+
 Push Operation: O(1)
 Pop Operation: O(1)
 
