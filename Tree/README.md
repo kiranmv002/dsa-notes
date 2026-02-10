@@ -12,4 +12,6 @@ Topics Covered
 
 • Types of Trees – Different types of tree structures.
 
+• Binary Tree – Tree with at most two children.
+
 More tree topics will be added as learning continues.
