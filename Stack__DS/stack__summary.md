@@ -18,6 +18,7 @@ Topics Covered in Stack:
 - Stack Time Complexity
 
 Example:
+
 Stack operations sequence:
 
 Push 10 → Stack: [10]
