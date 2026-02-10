@@ -41,4 +41,3 @@ but it works only on sorted data.
 Conclusion:
 - Linear Search is simple but slow for large data
 - Binary Search is efficient for large and sorted datasets
-
