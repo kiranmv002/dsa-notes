@@ -14,4 +14,6 @@ Topics Covered
 
 • Binary Tree – Tree with at most two children.
 
+• Tree Traversals – Inorder, Preorder, and Postorder traversal methods.
+
 More tree topics will be added as learning continues.
