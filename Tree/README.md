@@ -16,4 +16,6 @@ Topics Covered
 
 • Tree Traversals – Inorder, Preorder, and Postorder traversal methods.
 
+• Binary Search Tree – Ordered binary tree for efficient searching.
+
 More tree topics will be added as learning continues.
