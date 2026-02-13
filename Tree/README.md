@@ -18,4 +18,6 @@ Topics Covered
 
 • Binary Search Tree – Ordered binary tree for efficient searching.
 
+• Time Complexity of Tree – Performance analysis of tree operations.
+
 More tree topics will be added as learning continues.
