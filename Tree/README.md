@@ -20,4 +20,6 @@ Topics Covered
 
 • Time Complexity of Tree – Performance analysis of tree operations.
 
+• Tree Summary – Final overview of tree concepts.
+
 More tree topics will be added as learning continues.
