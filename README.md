@@ -53,6 +53,15 @@ consistent practice and clear explanations.
 - Queue Time Complexity
 - Queue Summary
 
+🌳 Tree
+• Tree Introduction
+• Types of Trees
+• Binary Tree
+• Tree Traversals
+• Binary Search Tree
+• Tree Time Complexity
+• Tree Summary
+
 ---
 
 ## How to Use This Repository
