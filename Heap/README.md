@@ -10,4 +10,6 @@ Topics Covered
 
 • Heap Introduction – Basics of heap and heap property.
 
+• Heap Operations – Insertion, deletion, and heapify process.
+
 More heap topics will be added as learning continues.
