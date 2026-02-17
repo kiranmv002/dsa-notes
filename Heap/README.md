@@ -12,4 +12,6 @@ Topics Covered
 
 • Heap Operations – Insertion, deletion, and heapify process.
 
+• Heap Implementation using Array – Array representation of heap.
+
 More heap topics will be added as learning continues.
