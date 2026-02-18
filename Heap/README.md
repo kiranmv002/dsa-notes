@@ -14,4 +14,6 @@ Topics Covered
 
 • Heap Implementation using Array – Array representation of heap.
 
+• Min Heap vs Max Heap – Comparison of heap types.
+
 More heap topics will be added as learning continues.
