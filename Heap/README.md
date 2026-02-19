@@ -16,4 +16,6 @@ Topics Covered
 
 • Min Heap vs Max Heap – Comparison of heap types.
 
+• Heap Sort – Sorting algorithm based on heap.
+
 More heap topics will be added as learning continues.
