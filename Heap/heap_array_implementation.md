@@ -1,3 +1,4 @@
+
 Heap Implementation using Array
 
 Heap is usually implemented using an array
@@ -22,11 +23,11 @@ Value: [50, 30, 40, 10, 20]
 
 Tree form:
 
-        50
-       /  \
-     30    40
-    /  \
-   10   20
+         50
+        /  \
+      30    40
+     /  \
+    10   20
 
 How it works:
 
