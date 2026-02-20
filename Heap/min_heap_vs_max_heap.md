@@ -1,3 +1,4 @@
+
 Min Heap vs Max Heap
 
 Heap is divided into two main types
@@ -35,11 +36,11 @@ Used when:
 
 Example:
 
-        10
-       /  \
-     20    30
-    /  \
-   40   50
+         10
+        /  \
+      20    30
+     /  \
+    40   50
 
 In Min Heap:
 Root contains the minimum value.
