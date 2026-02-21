@@ -1,3 +1,4 @@
+
 Binary Tree
 
 A Binary Tree is a type of tree data structure
