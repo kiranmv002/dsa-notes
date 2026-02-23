@@ -18,4 +18,6 @@ Topics Covered
 
 • Heap Sort – Sorting algorithm based on heap.
 
+• Time Complexity of Heap – Performance analysis of heap operations.
+
 More heap topics will be added as learning continues.
