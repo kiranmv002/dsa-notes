@@ -20,4 +20,6 @@ Topics Covered
 
 • Time Complexity of Heap – Performance analysis of heap operations.
 
+• Heap Summary – Final overview of heap concepts.
+
 More heap topics will be added as learning continues.
