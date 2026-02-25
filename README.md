@@ -54,13 +54,22 @@ consistent practice and clear explanations.
 - Queue Summary
 
 🌳 **Tree**
-• Tree Introduction
-• Types of Trees
-• Binary Tree
-• Tree Traversals
-• Binary Search Tree
-• Tree Time Complexity
-• Tree Summary
+- Tree Introduction
+- Types of Trees
+- Binary Tree
+- Tree Traversals
+- Binary Search Tree
+- Tree Time Complexity
+- Tree Summary
+
+🏗  **Heap**
+- Heap Introduction
+- Heap Operations
+- Heap Implementation using Array
+- Min Heap vs Max Heap
+- Heap Sort
+- Heap Time Complexity
+- Heap Summary
 
 ---
 
