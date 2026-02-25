@@ -53,7 +53,7 @@ consistent practice and clear explanations.
 - Queue Time Complexity
 - Queue Summary
 
-🌳 Tree
+🌳 **Tree**
 • Tree Introduction
 • Types of Trees
 • Binary Tree
