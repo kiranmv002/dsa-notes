@@ -10,4 +10,6 @@ Topics Covered
 
 • Recursion Introduction – Basics of recursive functions.
 
+• Working of Recursion and Call Stack
+
 More recursion topics will be added as learning continues.
