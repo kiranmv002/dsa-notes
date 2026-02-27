@@ -12,4 +12,6 @@ Topics Covered
 
 • Working of Recursion and Call Stack
 
+• Types of Recursion
+
 More recursion topics will be added as learning continues.
