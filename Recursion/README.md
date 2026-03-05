@@ -16,4 +16,6 @@ Topics Covered
 
 • Recursion vs Iteration
 
+• Common Recursion Problems
+
 More recursion topics will be added as learning continues.
