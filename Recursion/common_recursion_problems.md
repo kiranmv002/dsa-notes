@@ -43,3 +43,38 @@ fibonacci(n):
     return fibonacci(n-1) + fibonacci(n-2)
 
 --------------------------------------------------
+
+3. Sum of First N Natural Numbers
+
+Example:
+Sum of first 5 numbers
+= 5 + 4 + 3 + 2 + 1
+
+Recursive Example:
+
+sum(n):
+    if n == 1:
+        return 1
+    return n + sum(n-1)
+
+--------------------------------------------------
+
+4. Printing Numbers
+
+Example: Print numbers from n to 1
+
+printNumbers(n):
+    if n == 0:
+        return
+    print(n)
+    printNumbers(n-1)
+
+--------------------------------------------------
+
+Key Points:
+
+- Recursion works best for problems
+  that can be divided into smaller parts
+- Base case is required to stop recursion
+- Recursive call reduces the problem size
+- Widely used in trees, graphs, and divide-and-conquer algorithms
