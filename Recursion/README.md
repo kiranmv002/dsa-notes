@@ -18,4 +18,6 @@ Topics Covered
 
 • Common Recursion Problems
 
+• Time Complexity in Recursion
+
 More recursion topics will be added as learning continues.
