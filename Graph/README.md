@@ -1,0 +1,12 @@
+Graph Notes
+
+Graph is a non-linear data structure
+used to represent relationships
+between different entities.
+
+This folder contains simple and easy-to-understand
+notes on Graph data structure.
+
+Topics Covered
+
+• Graph Introduction
