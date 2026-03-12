@@ -27,9 +27,9 @@ Example:
 Vertices: A, B, C, D
 
 Edges:
-A — B
-A — C
-B — D
+- A — B
+- A — C
+- B — D
 
 Graph Representation:
 
