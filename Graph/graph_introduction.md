@@ -32,13 +32,13 @@ Edges:
 - B — D
 
 Graph Representation:
-
-    A
-   / \
-  B   C
-   \
-    D
-
+```
+      A
+     / \
+    B   C
+     \
+      D
+```
 Types of Graphs:
 
 1. Directed Graph
