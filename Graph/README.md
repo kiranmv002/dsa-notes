@@ -10,3 +10,5 @@ notes on Graph data structure.
 Topics Covered
 
 • Graph Introduction
+
+• Types of Graphs
