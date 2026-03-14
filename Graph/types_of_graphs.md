@@ -84,6 +84,28 @@ Example:
 
 A → B → C → A
 
+--------------------------------------------------
+
+6. Acyclic Graph
+
+An acyclic graph does not contain
+any cycle.
+
+Example:
+
+A → B → C
+
+--------------------------------------------------
+
+Key Points:
+
+- Graphs can be directed or undirected
+- Some graphs have weights
+- Cyclic graphs contain loops
+- Acyclic graphs do not contain loops
+- Choosing the correct graph type
+  depends on the problem
+
 Here the path returns to the starting node.
 
 --------------------------------------------------
