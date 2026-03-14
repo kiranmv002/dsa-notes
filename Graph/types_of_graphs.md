@@ -21,7 +21,43 @@ C
 ```
 Edges:
 ```
-- A — B
-- A — C
+A — B
+A — C
 
 ```
+--------------------------------------------------
+
+2. Directed Graph (Digraph)
+
+In a directed graph,
+edges have a direction.
+
+Example:
+```
+A → B
+B → C
+```
+Here:
+A connects to B
+B connects to C
+
+--------------------------------------------------
+
+3. Weighted Graph
+
+In a weighted graph,
+each edge has a weight or cost.
+
+Example:
+```
+A —5— B
+A —2— C
+```
+Here:
+5 and 2 represent weights.
+
+Used in:
+- Shortest path problems
+- Network routing
+
+--------------------------------------------------
