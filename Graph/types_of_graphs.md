@@ -61,3 +61,29 @@ Used in:
 - Network routing
 
 --------------------------------------------------
+
+4. Unweighted Graph
+
+Edges do not have weights.
+
+Example:
+```
+A — B
+B — C
+```
+All connections are considered equal.
+
+--------------------------------------------------
+
+5. Cyclic Graph
+
+A cyclic graph contains
+at least one cycle.
+
+Example:
+
+A → B → C → A
+
+Here the path returns to the starting node.
+
+--------------------------------------------------
