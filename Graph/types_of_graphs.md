@@ -14,11 +14,11 @@ edges do not have direction.
 The connection works both ways.
 
 Example:
-
+```
 A — B
 |
 C
-
+```
 Edges:
 A — B
 A — C
