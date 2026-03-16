@@ -19,19 +19,19 @@ If there is an edge between two vertices,
 the value is 1, otherwise it is 0.
 
 Example Graph:
-
+```
 A — B
 |   |
 C — D
-
+```
 Adjacency Matrix:
-
+```
     A B C D
 A   0 1 1 0
 B   1 0 0 1
 C   1 0 0 1
 D   0 1 1 0
-
+```
 Advantages:
 - Simple to implement
 - Easy to check if edge exists
@@ -41,6 +41,7 @@ Disadvantages:
 - Not efficient for sparse graphs
 
 --------------------------------------------------
+
 2. Adjacency List
 
 An Adjacency List represents the graph
@@ -50,18 +51,18 @@ Each vertex stores a list
 of its neighboring vertices.
 
 Example Graph:
-
+```
 A — B
 |   |
 C — D
-
+```
 Adjacency List:
-
+```
 A → B, C
 B → A, D
 C → A, D
 D → B, C
-
+```
 Advantages:
 - Memory efficient
 - Better for sparse graphs
