@@ -41,3 +41,32 @@ Disadvantages:
 - Not efficient for sparse graphs
 
 --------------------------------------------------
+2. Adjacency List
+
+An Adjacency List represents the graph
+as a list of connected vertices.
+
+Each vertex stores a list
+of its neighboring vertices.
+
+Example Graph:
+
+A — B
+|   |
+C — D
+
+Adjacency List:
+
+A → B, C
+B → A, D
+C → A, D
+D → B, C
+
+Advantages:
+- Memory efficient
+- Better for sparse graphs
+
+Disadvantages:
+- Slightly more complex implementation
+
+--------------------------------------------------
