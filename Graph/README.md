@@ -12,3 +12,5 @@ Topics Covered
 • Graph Introduction
 
 • Types of Graphs
+
+• Graph Representation – Adjacency Matrix and Adjacency List
