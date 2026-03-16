@@ -70,3 +70,11 @@ Disadvantages:
 - Slightly more complex implementation
 
 --------------------------------------------------
+
+Key Points
+
+- Graphs can be represented using
+  adjacency matrix or adjacency list
+- Matrix is easier but uses more memory
+- List is memory efficient
+- Choice depends on graph density
