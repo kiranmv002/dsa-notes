@@ -59,8 +59,9 @@ How it works:
 Example:
 
 DFS starting from A:
+```
 A → B → C → E → D
-
+```
 Pseudo Code:
 
 DFS(node):
@@ -74,8 +75,8 @@ DFS(node):
 
 Time Complexity:
 
-BFS: O(V + E)
-DFS: O(V + E)
+- BFS: O(V + E)
+- DFS: O(V + E)
 
 (V = Vertices, E = Edges)
 
