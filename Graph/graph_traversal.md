@@ -21,13 +21,15 @@ How it works:
 Example:
 
 Graph:
+```
 A — B — C
 |       |
 D — — — E
-
+```
 BFS starting from A:
+```
 A → B → D → C → E
- 
+```
 Pseudo Code:
 
 BFS(start):
@@ -44,3 +46,45 @@ BFS(start):
                 enqueue
 
 --------------------------------------------------
+2. Depth First Search (DFS)
+
+- Visits nodes as deep as possible first
+- Uses Stack (or recursion)
+
+How it works:
+- Start from a node
+- Go deep into one branch
+- Backtrack and explore others
+
+Example:
+
+DFS starting from A:
+A → B → C → E → D
+
+Pseudo Code:
+
+DFS(node):
+    mark node as visited
+    print node
+    for each neighbor:
+        if not visited:
+            DFS(neighbor)
+
+--------------------------------------------------
+
+Time Complexity:
+
+BFS: O(V + E)
+DFS: O(V + E)
+
+(V = Vertices, E = Edges)
+
+--------------------------------------------------
+
+Key Points:
+
+- BFS uses Queue
+- DFS uses Stack / Recursion
+- Both visit all nodes
+- BFS is useful for shortest path
+- DFS is useful for exploring paths
