@@ -16,13 +16,13 @@ Basic Idea:
 Example:
 
 Graph:
-
+```
 A —1— B
 |     |
 4     2
 |     |
 C —3— D
-
+```
 Goal:
 Find shortest path from A
 
