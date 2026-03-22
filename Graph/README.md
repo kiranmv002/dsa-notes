@@ -14,3 +14,5 @@ Topics Covered
 • Types of Graphs
 
 • Graph Representation – Adjacency Matrix and Adjacency List
+
+• Shortest Path – Dijkstra Algorithm
