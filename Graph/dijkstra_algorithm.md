@@ -29,22 +29,25 @@ Find shortest path from A
 Steps:
 
 Initial distances:
+```
 A = 0
 B = ∞
 C = ∞
 D = ∞
-
+```
 Step 1:
+```
 Visit A
 Update neighbors:
 B = 1
 C = 4
-
+```
 Step 2:
+```
 Visit B (smallest distance = 1)
 Update:
 D = 1 + 2 = 3
-
+```
 Step 3:
 Visit D (distance = 3)
 Update:
