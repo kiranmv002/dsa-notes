@@ -74,3 +74,29 @@ Dijkstra(source):
             newDist = currentDist + weight
             if newDist < neighbor distance:
                 update distance
+Pseudo Code:
+
+Dijkstra(source):
+    set distance[source] = 0
+    for all other nodes:
+        distance = infinity
+
+     while unvisited nodes exist:
+        pick node with smallest distance
+        mark it as visited
+
+        for each neighbor:
+            newDist = currentDist + weight
+            if newDist < neighbor distance:
+                update distance
+
+Time Complexity:
+Using simple method: O(V^2)
+Using priority queue: O((V + E) log V)
+
+Key Points:
+
+- Works for weighted graphs
+- Does not work with negative weights
+- Finds shortest path efficiently
+- Used in maps and navigation systems
