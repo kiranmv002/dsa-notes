@@ -29,3 +29,31 @@ Time Complexity:
 O(V + E)
 
 --------------------------------------------------
+
+3. Dijkstra Algorithm
+
+- Finds shortest path in weighted graph
+
+Time Complexity:
+Simple method: O(V^2)
+Using priority queue: O((V + E) log V)
+
+--------------------------------------------------
+
+4. Adjacency Matrix
+
+- Space Complexity: O(V^2)
+- Checking edge: O(1)
+
+--------------------------------------------------
+
+5. Adjacency List
+
+- Space Complexity: O(V + E)
+- Traversal: O(V + E)
+
+--------------------------------------------------
+
+Understanding time complexity
+is important for selecting
+the right graph algorithm.
