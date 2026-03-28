@@ -54,6 +54,14 @@ Using priority queue: O((V + E) log V)
 
 --------------------------------------------------
 
+Key Points:
+
+- Graph algorithms depend on vertices and edges
+- BFS and DFS are very efficient
+- Adjacency list is better for sparse graphs
+- Adjacency matrix is easier but uses more memory
+- Choosing representation affects performance
+
 Understanding time complexity
 is important for selecting
 the right graph algorithm.
