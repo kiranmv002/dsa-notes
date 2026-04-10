@@ -37,3 +37,28 @@ Graph Representation
 - Adjacency Matrix
 - Adjacency List
 
+Shortest Path
+- Dijkstra algorithm finds shortest path
+- Works only with non-negative weights
+
+Advantages of Graph
+
+- Represents real-world relationships
+- Used in networks and maps
+- Flexible data structure
+
+Disadvantages of Graph
+
+- Can be complex to implement
+- Requires more memory in some representations
+
+Key Takeaways
+
+- Graph is a powerful data structure
+- BFS and DFS are fundamental algorithms
+- Representation affects performance
+- Widely used in real-world applications
+
+Graph is one of the most important
+topics in Data Structures and Algorithms
+and is used in advanced problem solving.
