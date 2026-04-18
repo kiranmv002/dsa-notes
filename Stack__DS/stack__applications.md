@@ -5,6 +5,7 @@ the Last In, First Out (LIFO) principle.
 Because of this behavior, stacks are widely
 used in many real-life and programming applications.
 
+
 How it works:
 - Elements are added to the top of the stack
 - The most recently added element is accessed first
