@@ -98,7 +98,6 @@ Using simple method: O(V^2)
 Using priority queue: O((V + E) log V)
 
 Key Points:
-
 - Works for weighted graphs
 - Does not work with negative weights
 - Finds shortest path efficiently
