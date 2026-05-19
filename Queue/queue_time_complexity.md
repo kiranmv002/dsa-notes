@@ -36,7 +36,25 @@ Queue becomes: [20, 30, 40]
 Pseudo Code:
 
 Enqueue(x):
+
+if rear == MAX-1
+    print "Queue Overflow"
+
+else
     rear = rear + 1
     queue[rear] = x
 
+  if front == -1
+        front = 0
+
 Dequeue():
+
+
+if front == -1 OR front > rear
+    print "Queue Underflow"
+
+else
+    item = queue[front]
+    front = front + 1
+
+return item
