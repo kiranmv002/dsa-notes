@@ -16,21 +16,21 @@ Types of Trees:
 1. General Tree
 - A node can have any number of children
 - No specific ordering between children
-
+```
 Example:
         A
       / | \
      B  C  D
-
+```
 2. Binary Tree
 - Each node can have at most two children
 - Children are referred to as left and right child
-
+```
 Example:
         A
        / \
       B   C
-
+```
 3. Binary Search Tree (BST)
 - A special type of binary tree
 - Left child contains smaller values
