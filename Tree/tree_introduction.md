@@ -20,6 +20,7 @@ How it works:
 - Each node can have multiple children
 
 Example:
+
         A
        / \
       B   C
@@ -43,5 +44,4 @@ Key Points:
 - Used when data has parent-child relationship
 - Very important in Data Structures and Algorithms
 
-Tree forms the base for advanced structures
-like Binary Tree, BST, and Heap.
+Tree forms the base for advanced structures like Binary Tree, BST, and Heap.
