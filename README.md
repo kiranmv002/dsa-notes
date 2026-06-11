@@ -3,8 +3,7 @@
 This repository contains **simple**, **structured** notes on  
 **Data Structures and Algorithms (DSA)** for learning and revision.
 
-The focus is on building **strong fundamentals** 
-through consistent practice and clear explanations.
+The focus is on building **strong fundamentals**  through consistent practice and clear explanations.
 
 ---
 
