@@ -16,7 +16,7 @@ Factorial of n (n!) is the product
 of all positive integers up to n.
 
 Example:
-5! = 5 × 4 × 3 × 2 × 1 = 120
+6! = 5 × 4 × 3 × 2 × 1 = 720
 
 Recursive Example:
 
