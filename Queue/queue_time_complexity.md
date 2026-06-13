@@ -24,6 +24,7 @@ Front Operation:
 - Takes constant time
 
 Example:
+```
 Queue: [10, 20, 30]
 
 Enqueue 40:
@@ -32,7 +33,7 @@ Queue becomes: [10, 20, 30, 40]
 Dequeue:
 Removes 10
 Queue becomes: [20, 30, 40]
-
+```
 Pseudo Code:
 
 Enqueue(x):
