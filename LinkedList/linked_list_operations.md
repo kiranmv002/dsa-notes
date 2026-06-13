@@ -21,13 +21,14 @@ Types of Insertion:
 2. At the end
 3. At a specific position
 
-Example (Insert at Beginning):
+Example (Insert at BeginnList
+```
 Initial List:
 10 → 20 → 30 → null
 
 Insert 5 at beginning:
 5 → 10 → 20 → 30 → null
-
+```
 Deletion Operation:
 Deletion means removing a node from the linked list.
 
