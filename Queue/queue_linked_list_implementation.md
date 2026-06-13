@@ -25,6 +25,7 @@ Dequeue Operation:
 - Update front to the next node
 
 Example:
+```
 Initial Queue:
 Front → null
 
@@ -39,7 +40,7 @@ Rear  → 20
 Dequeue:
 Removes 10
 Front → 20 → null
-
+```
 Pseudo Code:
 
 Enqueue(x):
