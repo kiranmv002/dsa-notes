@@ -15,6 +15,7 @@ Basic Operations:
 - Front: View the front element
 
 Example:
+```
 Initial Queue: [ ]
 
 Enqueue 10:
@@ -26,7 +27,7 @@ Queue becomes: [10, 20]
 Dequeue:
 Removes 10
 Queue becomes: [20]
-
+```
 Pseudo Code:
 
 Enqueue(x):
