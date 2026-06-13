@@ -33,7 +33,7 @@ Linked lists are used to represent
 polynomials in mathematical computations.
 
 Example:
-
+```
 Music Playlist:
 Song1 → Song2 → Song3 → null
 
@@ -42,7 +42,7 @@ Song1 → Song2 → Song3 → Song4 → null
 
 Remove Song2:
 Song1 → Song3 → Song4 → null
-
+```
 Pseudo Code (Insert at End):
 
 InsertAtEnd(x):
