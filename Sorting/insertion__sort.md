@@ -13,6 +13,7 @@ How it works:
 - Repeat until the list is sorted
 
 Example:
+```
 Array: [7, 4, 6, 2]
 
 Step 1:
@@ -29,7 +30,7 @@ Insert 2 → [2, 4, 6, 7]
 
 Sorted Array:
 [2, 4, 6, 7]
-
+```
 Pseudo Code:
 InsertionSort(arr):
     for i from 1 to n-1:
