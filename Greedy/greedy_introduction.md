@@ -20,7 +20,7 @@ How it works:
 - Continue until solution is complete
 
 Example:
-
+```
 Coin Change Problem
 
 Coins: 1, 2, 5, 10
@@ -35,3 +35,4 @@ Pick largest coin first
 1 → done  
 
 Result: 4 coins
+```
