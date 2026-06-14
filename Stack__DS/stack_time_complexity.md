@@ -24,6 +24,7 @@ Peek Operation:
 - Takes constant time
 
 Example:
+```
 Stack: [5, 10, 15]
 
 Push 20:
@@ -44,7 +45,7 @@ Pop():
         print "Stack is empty"
     else:
         top = top - 1
-
+```
 Time Complexity:
 Push Operation: O(1)
 Pop Operation: O(1)
