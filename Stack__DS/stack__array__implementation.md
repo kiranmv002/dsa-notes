@@ -19,6 +19,7 @@ Pop Operation:
 - Decrement top
 
 Example:
+```
 Initial Stack (size = 5):
 Top = -1
 Stack = [ , , , , ]
@@ -35,6 +36,6 @@ Pop:
 Removes 20
 Top = 0
 Stack = [10, , , , ]
-
+```
 Array-based stack is easy to implement
 but has a fixed size limitation.
