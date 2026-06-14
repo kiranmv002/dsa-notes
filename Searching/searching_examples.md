@@ -2,7 +2,9 @@ Searching Examples
 
 Examples help in understanding how searching algorithms work in real cases.
 
-Example 1: Linear Search
+Example 1: 
+```
+Linear Search
 
 Array: [8, 3, 6, 2, 9]
 Target: 6
@@ -15,7 +17,7 @@ Process:
 
 Result:
 Element found at index 2
-
+```
 Example 2: Binary Search
 
 Sorted Array: [2, 4, 6, 8, 10]
