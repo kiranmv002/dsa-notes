@@ -24,12 +24,12 @@ Here,
 30 is the last node
 
 Pseudo Code:
-
+```
 CreateNode(x):
     node.data = x
     node.next = null
     return node
-
+```
 Time Complexity:
 Accessing an element: O(n)
 Insertion at beginning: O(1)
