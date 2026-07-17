@@ -20,11 +20,12 @@ Topics Covered in Stack:
 Example:
 
 Stack operations sequence:
+```
 
 Push 10 → Stack: [10]
 Push 20 → Stack: [10, 20]
 Pop → removes 20 → Stack: [10]
-
+```
 Key Points:
 - Stack is simple and efficient
 - Insertion and deletion take constant time
