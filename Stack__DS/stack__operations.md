@@ -7,16 +7,18 @@ Push Operation:
 - Adds an element to the top of the stack
 
 Example:
+```
 Initial Stack: [10, 20]
 Push 30
 Stack becomes: [10, 20, 30]
 
 Pop Operation:
 - Removes the top element from the stack
+```
 
 Example:
 Initial Stack: [10, 20, 30]
-Pop
+Pop 30
 Stack becomes: [10, 20]
 
 Peek Operation:
