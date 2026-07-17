@@ -24,6 +24,7 @@ Pop Operation:
 - Update top to the next node
 
 Example:
+```
 Initial Stack:
 Top → null
 
@@ -36,7 +37,7 @@ Top → 20 → 10 → null
 Pop:
 Element removed: 20
 Top → 10 → null
-
+```
 Pseudo Code:
 
 Push(x):
