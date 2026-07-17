@@ -30,6 +30,7 @@ Stacks can reverse strings, arrays, or lists
 by pushing elements and popping them out.
 
 Example:
+```
 Reversing a string "ABC"
 
 Push:
@@ -41,6 +42,7 @@ Pop:
 C → B → A
 
 Reversed string: "CBA"
+```
 
 Pseudo Code:
 ReverseString(str):
