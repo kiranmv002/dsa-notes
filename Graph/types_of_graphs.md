@@ -81,9 +81,9 @@ A cyclic graph contains
 at least one cycle.
 
 Example:
-
+```
 A → B → C → A
-
+```
 ------------------------------------------------
 
 6. Acyclic Graph
@@ -92,9 +92,9 @@ An acyclic graph does not contain
 any cycle.
 
 Example:
-
+```
 A → B → C
-
+```
 ------------------------------------------------
 
 Key Points:
