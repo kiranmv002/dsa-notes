@@ -31,8 +31,8 @@ Push 20:
 Stack becomes: [5, 10, 15, 20]
 
 Pop:
-Removes 20
-Stack becomes: [5, 10, 15]
+Removes 15
+Stack becomes: [5, 10, 20]
 
 Pseudo Code:
 
