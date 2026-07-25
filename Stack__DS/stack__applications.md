@@ -37,11 +37,12 @@ Push:
 A → Stack: [A]
 B → Stack: [A, B]
 C → Stack: [A, B, C]
+D → Stack: [A, B, C, D]
 
 Pop:
-C → B → A
+D → C → B → A
 
-Reversed string: "CBA"
+Reversed string: "DCBA"
 ```
 
 Pseudo Code:
