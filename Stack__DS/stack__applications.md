@@ -31,7 +31,7 @@ by pushing elements and popping them out.
 
 Example:
 ```
-Reversing a string "ABC"
+Reversing a string "ABCD"
 
 Push:
 A → Stack: [A]
