@@ -13,18 +13,20 @@ Enqueue Operation:
 - Adds an element to the rear of the queue
 
 Example:
+```
 Initial Queue: [10, 20]
 Enqueue 30
 Queue becomes: [10, 20, 30]
-
+```
 Dequeue Operation:
 - Removes the element from the front of the queue
 
 Example:
+```
 Initial Queue: [10, 20, 30]
 Dequeue
 Queue becomes: [20, 30]
-
+```
 Front Operation:
 - Returns the front element without removing it
 
