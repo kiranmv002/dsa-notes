@@ -5,6 +5,7 @@ Heap is usually implemented using an array
 because it is a Complete Binary Tree.
 
 In array representation:
+```
 - Root is stored at index 0
 - For any element at index i:
 
@@ -13,7 +14,7 @@ Left child index = 2i + 1
 Right child index = 2i + 2
 
 This makes heap efficient and easy to manage.
-
+```
 Example:
 
 Array representation of Max Heap:
