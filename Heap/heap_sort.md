@@ -52,10 +52,11 @@ HeapSort(arr):
         heapify(arr, 0, i)
 ```
 Time Complexity:
+```
 Best Case: O(n log n)
 Average Case: O(n log n)
 Worst Case: O(n log n)
-
+```
 Space Complexity:
 O(1) (In-place sorting)
 
