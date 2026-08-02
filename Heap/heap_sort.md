@@ -44,13 +44,13 @@ Final Sorted Array:
 [1, 3, 4, 5, 10]
 ```
 Pseudo Code:
-
+```
 HeapSort(arr):
     BuildMaxHeap(arr)
     for i from n-1 to 1:
         swap arr[0] and arr[i]
         heapify(arr, 0, i)
-
+```
 Time Complexity:
 Best Case: O(n log n)
 Average Case: O(n log n)
