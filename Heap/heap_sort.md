@@ -25,7 +25,7 @@ Step 5:
 Repeat until heap size becomes 1.
 
 Example:
-
+```
 Given Array:
 [4, 10, 3, 5, 1]
 
@@ -42,7 +42,7 @@ Repeat process until sorted:
 
 Final Sorted Array:
 [1, 3, 4, 5, 10]
-
+```
 Pseudo Code:
 
 HeapSort(arr):
