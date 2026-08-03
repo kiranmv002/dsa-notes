@@ -6,13 +6,13 @@ It works only for graphs with
 non-negative edge weights.
 
 Basic Idea:
-
+```
 - Start from the source node
 - Assign distance = 0 to source
 - Assign infinity to all other nodes
 - Update distances of neighbors
 - Always choose the node with smallest distance
-
+```
 Example:
 
 Graph:
