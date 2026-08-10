@@ -26,11 +26,12 @@ How it works:
 - Stops when base case is reached
 
 Example: Factorial of a Number
-
+```
 Factorial of n (n!) =
 n × (n-1) × (n-2) × ... × 1
 
 Example:
+
 5! = 5 × 4 × 3 × 2 × 1
 
 Recursive Definition:
@@ -40,16 +41,16 @@ factorial(n):
         return 1
     else:
         return n * factorial(n-1)
-
+```
 Step-by-step:
-
+```
 factorial(5)
 = 5 × factorial(4)
 = 5 × 4 × factorial(3)
 = 5 × 4 × 3 × factorial(2)
 = 5 × 4 × 3 × 2 × factorial(1)
 = 5 × 4 × 3 × 2 × 1
-
+```
 Key Points:
 
 - Must have a base case
