@@ -14,7 +14,7 @@ Below are some common recursion problems.
 
 Factorial of n (n!) is the product
 of all positive integers up to n.
-
+```
 Example:
 6! = 6 × 5 × 4 × 3 × 2 × 1 = 720
 
@@ -24,13 +24,13 @@ factorial(n):
     if n == 1:
         return 1
     return n * factorial(n-1)
-
+```
 --------------------------------------------------
 
 2. Fibonacci Sequence
 
 Fibonacci sequence is defined as:
-
+```
 F(0) = 0
 F(1) = 1
 F(n) = F(n-1) + F(n-2)
@@ -41,7 +41,7 @@ fibonacci(n):
     if n <= 1:
         return n
     return fibonacci(n-1) + fibonacci(n-2)
-
+```
 --------------------------------------------------
 
 3. Sum of First N Natural Numbers
