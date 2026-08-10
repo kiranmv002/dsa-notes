@@ -15,15 +15,15 @@ How Recursion Works:
 4. Functions are removed from the stack one by one.
 
 Example: Factorial of 4
-
+```
 factorial(4)
 = 4 × factorial(3)
 = 4 × 3 × factorial(2)
 = 4 × 3 × 2 × factorial(1)
 = 4 × 3 × 2 × 1
-
+```
 Call Stack Flow:
-
+```
 Step 1:
 factorial(4) → waiting for factorial(3)
 
@@ -42,7 +42,7 @@ factorial(1) returns 1
 factorial(2) returns 2
 factorial(3) returns 6
 factorial(4) returns 24
-
+```
 Important Concept: Stack Memory
 
 - Every recursive call uses stack memory
