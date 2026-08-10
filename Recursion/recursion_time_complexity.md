@@ -14,7 +14,7 @@ How Recursion Works:
 - The number of calls determines time complexity
 
 Example 1: Factorial
-
+```
 factorial(n):
     if n == 1:
         return 1
@@ -27,11 +27,11 @@ Total calls = n
 
 Time Complexity:
 O(n)
-
+```
 --------------------------------------------------
 
 Example 2: Fibonacci
-
+```
 fibonacci(n):
     if n <= 1:
         return n
@@ -45,7 +45,7 @@ fibonacci(5)
 
 Time Complexity:
 O(2^n)
-
+```
 --------------------------------------------------
 
 Space Complexity in Recursion
