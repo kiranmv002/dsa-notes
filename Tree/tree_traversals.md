@@ -30,7 +30,7 @@ Example Binary Tree:
       B   C
      / \
     D   E
-
+```
 Inorder Traversal:
 D → B → E → A → C
 
@@ -39,7 +39,7 @@ A → B → D → E → C
 
 Postorder Traversal:
 D → E → B → C → A
-
+```
 Pseudo Code:
 
 Inorder(node):
