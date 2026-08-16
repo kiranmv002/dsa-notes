@@ -17,10 +17,11 @@ Array: [3, 5, 7, 9, 11, 13]
 Key: 9
 
 Process:
+```
 Middle = 7 → key is greater → shift right
 Middle = 11 → key is smaller → shift left
 Middle = 9 → element found
-
+```
 Pseudo Code:
 BinarySearch(arr, key):
     start = 0
