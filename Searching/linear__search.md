@@ -17,13 +17,14 @@ Array: [10, 25, 30, 45, 60]
 Key: 45
 
 Process:
+```
 10 → not match  
 25 → not match  
 30 → not match  
 45 → match found  
 
 Element found at index 3
-
+```
 Pseudo Code:
 LinearSearch(arr, key):
     for i from 0 to length(arr) - 1:
