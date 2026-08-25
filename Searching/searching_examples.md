@@ -19,10 +19,10 @@ Result:
 Element found at index 2
 ```
 Example 2: Binary Search
-
+```
 Sorted Array: [2, 4, 6, 8, 10]
 Target: 8
-
+```
 Process:
 - Middle element is 6 → target is greater
 - Move to right half
