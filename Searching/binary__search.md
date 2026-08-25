@@ -1,4 +1,4 @@
-Binary Search Algorithm
+// Binary Search Algorithm
 
 Binary Search is an efficient technique used to search an element in a sorted array.
 Instead of scanning elements one by one, it repeatedly divides the search space into half.
