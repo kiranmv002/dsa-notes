@@ -26,12 +26,13 @@ Process:
 Element found at index 3
 ```
 Pseudo Code:
+```
 LinearSearch(arr, key):
     for i from 0 to length(arr) - 1:
         if arr[i] == key:
             return i
     return -1
-
+```
 Time Complexity:
 Best Case: O(1)
 Worst Case: O(n)
