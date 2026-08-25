@@ -47,16 +47,17 @@ fibonacci(n):
 3. Sum of First N Natural Numbers
 
 Example:
+
 Sum of first 5 numbers
 = 5 + 4 + 3 + 2 + 1
 
 Recursive Example:
-
+```
 sum(n):
     if n == 1:
         return 1
     return n + sum(n-1)
-
+```
 --------------------------------------------------
 
 4. Printing Numbers
