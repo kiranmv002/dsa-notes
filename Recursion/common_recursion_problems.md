@@ -63,13 +63,13 @@ sum(n):
 4. Printing Numbers
 
 Example: Print numbers from n to 1
-
+```
 printNumbers(n):
     if n == 0:
         return
     print(n)
     printNumbers(n-1)
-
+```
 --------------------------------------------------
 
 Key Points:
