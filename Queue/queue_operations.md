@@ -36,15 +36,17 @@ Front element is 20
 Pseudo Code:
 
 Enqueue(x):
+```
     rear = rear + 1
     queue[rear] = x
-
+```
 Dequeue():
+```
     if queue is empty:
         print "Queue is empty"
     else:
         front = front + 1
-
+```
 Time Complexity:
 Enqueue Operation: O(1)
 Dequeue Operation: O(1)
