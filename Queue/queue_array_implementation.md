@@ -28,6 +28,7 @@ Example:
 Queue size = 5
 
 Initial Queue:
+```
 Front = -1, Rear = -1
 Queue = [ , , , , ]
 
@@ -43,7 +44,7 @@ Dequeue:
 Removes 10
 Front = 1
 Queue = [ , 20, , , ]
-
+```
 Pseudo Code:
 
 Enqueue(x):
