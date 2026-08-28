@@ -48,6 +48,7 @@ Queue = [ , 20, , , ]
 Pseudo Code:
 
 Enqueue(x):
+```
     if rear == size - 1:
         print "Queue is full"
     else:
@@ -55,13 +56,14 @@ Enqueue(x):
             front = 0
         rear = rear + 1
         queue[rear] = x
-
+```
 Dequeue():
+```
     if front == -1 or front > rear:
         print "Queue is empty"
     else:
         front = front + 1
-
+```
 Time Complexity:
 Enqueue Operation: O(1)
 Dequeue Operation: O(1)
