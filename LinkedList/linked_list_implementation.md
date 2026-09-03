@@ -23,6 +23,7 @@ Implementation Steps:
 4. Link the node to the list
 
 Example:
+```
 Creating a Linked List
 
 Create node with data 10:
@@ -33,7 +34,7 @@ Head → 10 → 20 → null
 
 Add node with data 30:
 Head → 10 → 20 → 30 → null
-
+```
 Pseudo Code:
 
 CreateNode(x):
