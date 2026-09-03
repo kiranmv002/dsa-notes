@@ -36,7 +36,7 @@ Add node with data 30:
 Head → 10 → 20 → 30 → null
 ```
 Pseudo Code:
-
+```
 CreateNode(x):
     newNode = allocate memory
     newNode.data = x
@@ -52,7 +52,7 @@ InsertAtEnd(x):
         while temp.next != null:
             temp = temp.next
         temp.next = newNode
-
+```
 Time Complexity:
 Insertion at end: O(n)
 Traversal: O(n)
