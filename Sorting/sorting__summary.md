@@ -1,4 +1,4 @@
-//Summary
+
 Sorting Summary
 
 Sorting algorithms are used to arrange data
