@@ -1,4 +1,4 @@
-//Dijkstra
+
 Dijkstra Algorithm is used to find
 the shortest path from a source node
 to all other nodes in a weighted graph.
@@ -22,11 +22,10 @@ A —1— B
 |     |
 4     2
 |     |
-C —3— D
-```
+
 Goal:
 Find shortest path from A
-
+```
 Steps:
 
 Initial distances:
