@@ -28,7 +28,7 @@ A function calls another function,
 and that function calls the first one.
 
 Example:
-
+```
 functionA(n):
     if n <= 0:
         return
@@ -40,7 +40,7 @@ functionB(n):
         return
     print(n)
     functionA(n-1)
-
+```
 --------------------------------------------------
 
 3. Tail Recursion
