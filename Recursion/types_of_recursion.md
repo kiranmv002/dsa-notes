@@ -11,7 +11,7 @@ helps in solving complex problems easily.
 A function calls itself directly.
 
 Example:
-
+```
 printNumbers(n):
     if n == 0:
         return
@@ -19,7 +19,7 @@ printNumbers(n):
     printNumbers(n-1)
 
 Here, the function directly calls itself.
-
+```
 --------------------------------------------------
 
 2. Indirect Recursion
