@@ -39,7 +39,7 @@ Element removed: 20
 Top → 10 → null
 ```
 Pseudo Code:
-
+```
 Push(x):
     create newNode
     newNode.data = x
@@ -53,7 +53,7 @@ Pop():
         temp = top
         top = top.next
         delete temp
-
+```
 Time Complexity:
 Push Operation: O(1)
 Pop Operation: O(1)
