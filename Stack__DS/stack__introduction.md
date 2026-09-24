@@ -12,12 +12,13 @@ Basic Operations:
 - Peek: View the top element
 
 Example:
+```
 Stack elements: [10, 20, 30]
 
 Push 40 → [10, 20, 30, 40]
 Pop → removes 40
 Stack becomes: [10, 20, 30]
-
+```
 Applications of Stack:
 - Undo and redo operations
 - Function calls
