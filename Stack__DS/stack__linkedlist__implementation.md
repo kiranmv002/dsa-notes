@@ -55,9 +55,10 @@ Pop():
         delete temp
 ```
 Time Complexity:
+```
 Push Operation: O(1)
 Pop Operation: O(1)
-
+```
 Key Points:
 - No fixed size limitation
 - Efficient insertion and deletion
