@@ -17,10 +17,11 @@ Pop Operation:
 ```
 
 Example:
+```
 Initial Stack: [10, 20, 30]
 Pop 30
 Stack becomes: [10, 20]
-
+```
 Peek Operation:
 - Returns the top element without removing it
 
