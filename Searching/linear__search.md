@@ -13,9 +13,10 @@ Important Note:
 Linear Search works on both sorted and unsorted data.
 
 Example:
+```
 Array: [10, 25, 30, 45, 60]
 Key: 45
-
+```
 Process:
 ```
 10 → not match  
