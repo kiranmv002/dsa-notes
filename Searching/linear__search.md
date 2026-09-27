@@ -35,9 +35,10 @@ LinearSearch(arr, key):
     return -1
 ```
 Time Complexity:
+```
 Best Case: O(1)
 Worst Case: O(n)
-
+```
 This method is easy to understand but slow for large data sets.
 
 Key Points:
