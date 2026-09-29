@@ -58,10 +58,10 @@ Search(node, key):
         return Search(node.right, key)
 ```
 Time Complexity:
-
+```
 Average Case: O(log n)
 Worst Case: O(n)
-
+```
 Key Points:
 - BST improves searching efficiency
 - Works faster than normal Binary Tree (in average case)
