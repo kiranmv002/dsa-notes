@@ -46,7 +46,7 @@ Operations in BST:
 - Rearrange tree to maintain BST property
 
 Pseudo Code (Search in BST):
-
+```
 Search(node, key):
     if node == null:
         return "Not Found"
@@ -56,8 +56,9 @@ Search(node, key):
         return Search(node.left, key)
     else:
         return Search(node.right, key)
-
+```
 Time Complexity:
+
 Average Case: O(log n)
 Worst Case: O(n)
 
