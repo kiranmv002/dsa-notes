@@ -14,11 +14,11 @@ Basic Idea:
 - Build solution step by step
 ```
 How it works:
-
+```
 - Break problem into steps
 - Choose the best option at each step
 - Continue until solution is complete
-
+```
 Example:
 ```
 Coin Change Problem
