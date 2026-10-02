@@ -8,11 +8,11 @@ It focuses on making a local optimal choice
 with the hope that it leads to a global optimum.
 
 Basic Idea:
-
+```
 - At each step, pick the best available option
 - Do not reconsider previous choices
 - Build solution step by step
-
+```
 How it works:
 
 - Break problem into steps
