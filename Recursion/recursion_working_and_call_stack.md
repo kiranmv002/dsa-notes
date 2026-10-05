@@ -49,13 +49,13 @@ Important Concept: Stack Memory
 - If recursion is too deep,
   it may cause Stack Overflow
 - Base case prevents infinite recursion
-
+```
 Time Complexity:
 Depends on number of recursive calls.
 
 Space Complexity:
 O(n) due to call stack usage.
-
+```
 Key Points:
 
 - Recursion uses Call Stack
