@@ -7,7 +7,7 @@ This folder contains simple and easy-to-understand
 notes on Recursion.
 
 Topics Covered
-
+```
 • Recursion Introduction – Basics of recursive functions.
 
 • Working of Recursion and Call Stack
@@ -21,5 +21,5 @@ Topics Covered
 • Time Complexity in Recursion
 
 • Recursion Summary
-
+```
 More recursion topics will be added as learning continues.
