@@ -4,11 +4,12 @@ Linear Search is the simplest searching technique.
 It searches for an element by checking each value one after another.
 
 How it works:
+```
 - Start from the first element of the list
 - Compare each element with the target value
 - If a match is found, stop the search
 - If the end is reached, the element is not present
-
+```
 Important Note:
 Linear Search works on both sorted and unsorted data.
 
