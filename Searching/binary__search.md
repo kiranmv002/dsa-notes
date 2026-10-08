@@ -13,9 +13,10 @@ How it works:
 ⚠️ Note: Binary Search only works on sorted arrays.
 
 Example:
+```
 Array: [3, 5, 7, 9, 11, 13]
 Key: 9
-
+```
 Process:
 ```
 Middle = 7 → key is greater → shift right
