@@ -50,9 +50,10 @@ Heap:
 - Access max/min: O(1)
 ```
 Binary Search Tree:
+```
 - Average: O(log n)
 - Worst case: O(n)
-
+```
 Key Points:
 - Performance depends on height of heap
 - Height of heap is log n
