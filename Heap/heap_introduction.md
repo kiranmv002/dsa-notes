@@ -33,13 +33,13 @@ Example (Max Heap):
    - The smallest element is at the root
 
 Example (Min Heap):
-
+```
         10
        /  \
      20    30
     /  \
    40   50
-
+```
 How it works:
 - Heap is represented as a Complete Binary Tree
 - It is usually implemented using an array
