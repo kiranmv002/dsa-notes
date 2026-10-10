@@ -44,10 +44,11 @@ so overall complexity becomes O(n).
 Comparison with Other Structures:
 
 Heap:
+```
 - Insert: O(log n)
 - Delete: O(log n)
 - Access max/min: O(1)
-
+```
 Binary Search Tree:
 - Average: O(log n)
 - Worst case: O(n)
