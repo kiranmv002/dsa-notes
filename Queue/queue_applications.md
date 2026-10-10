@@ -39,7 +39,7 @@ Process Task1 → Queue becomes [Task2, Task3]
 Process Task2 → Queue becomes [Task3]
 ```
 Pseudo Code:
-
+```
 ProcessQueue():
     while queue is not empty:
         task = dequeue()
@@ -48,7 +48,7 @@ ProcessQueue():
 Time Complexity:
 Enqueue Operation: O(1)
 Dequeue Operation: O(1)
-
+```
 Key Points:
 - Queue maintains order of processing
 - Useful for scheduling and resource management
