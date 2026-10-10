@@ -14,14 +14,14 @@ Types of Heap:
 - Root contains the minimum value
 
 What We Learned:
-
+```
 - Heap Introduction
 - Heap Operations (Insertion, Deletion, Heapify)
 - Heap Implementation using Array
 - Min Heap vs Max Heap
 - Heap Sort
 - Time Complexity of Heap
-
+```
 Important Concepts:
 
 - Complete Binary Tree
