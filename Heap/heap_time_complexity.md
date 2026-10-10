@@ -55,7 +55,9 @@ Binary Search Tree:
 - Worst case: O(n)
 ```
 Key Points:
+```
 - Performance depends on height of heap
 - Height of heap is log n
 - Build Heap is O(n)
 - Very efficient for priority-based operations
+```
