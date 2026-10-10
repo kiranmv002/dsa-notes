@@ -32,11 +32,12 @@ Queues are used to store data temporarily
 during data transfer between devices.
 
 Example:
+```
 Queue of tasks: [Task1, Task2, Task3]
 
 Process Task1 → Queue becomes [Task2, Task3]
 Process Task2 → Queue becomes [Task3]
-
+```
 Pseudo Code:
 
 ProcessQueue():
