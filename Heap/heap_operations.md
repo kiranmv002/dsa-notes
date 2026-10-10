@@ -70,11 +70,11 @@ maintains its heap property
 after insertion or deletion.
 
 Time Complexity:
-
+```
 Insertion: O(log n)
 Deletion: O(log n)
 Heapify: O(log n)
-
+```
 Key Points:
 
 - Heap is usually implemented using array
