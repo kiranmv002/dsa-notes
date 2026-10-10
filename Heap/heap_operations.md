@@ -76,12 +76,13 @@ Deletion: O(log n)
 Heapify: O(log n)
 ```
 Key Points:
-
+```
 - Heap is usually implemented using array
 - Parent index = (i - 1) / 2
 - Left child index = 2i + 1
 - Right child index = 2i + 2
 - Operations depend on tree height
+```
 
 Heap operations are efficient
 for priority-based problems.
