@@ -18,10 +18,10 @@ This makes heap efficient and easy to manage.
 Example:
 
 Array representation of Max Heap:
-
+```
 Index:  0   1   2   3   4
 Value: [50, 30, 40, 10, 20]
-
+```
 Tree form:
 
          50
