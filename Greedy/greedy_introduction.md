@@ -33,6 +33,6 @@ Pick largest coin first
 5 → remaining 3  
 2 → remaining 1  
 1 → done  
-
-Result: 4 coins
 ```
+Result: 4 coins
+
