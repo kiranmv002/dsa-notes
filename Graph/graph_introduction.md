@@ -23,14 +23,14 @@ V = Set of vertices
 E = Set of edges connecting the vertices
 
 Example:
-
+```
 Vertices: A, B, C, D
 
 Edges:
 - A — B
 - A — C
 - B — D
-
+```
 Graph Representation:
 ```
       A
