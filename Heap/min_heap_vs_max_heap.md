@@ -62,10 +62,11 @@ Min Heap:
 - Used for smallest element problems
 
 Time Complexity (Both):
+```
 Insertion: O(log n)
 Deletion: O(log n)
 Access Root: O(1)
-
+```
 Key Points:
 - Both are Complete Binary Trees
 - Only difference is heap property
