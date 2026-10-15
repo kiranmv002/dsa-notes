@@ -58,8 +58,9 @@ Average Case: O(n log n)
 Worst Case: O(n log n)
 ```
 Space Complexity:
+```
 O(1) (In-place sorting)
-
+```
 Advantages:
 - Efficient for large datasets
 - Does not require extra memory
