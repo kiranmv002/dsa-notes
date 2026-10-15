@@ -32,6 +32,7 @@ Sorted Array:
 [2, 4, 6, 7]
 ```
 Pseudo Code:
+```
 InsertionSort(arr):
     for i from 1 to n-1:
         key = arr[i]
@@ -40,7 +41,7 @@ InsertionSort(arr):
             arr[j + 1] = arr[j]
             j = j - 1
         arr[j + 1] = key
-
+```
 Time Complexity:
 Best Case: O(n)
 Worst Case: O(n²)
