@@ -43,8 +43,9 @@ InsertionSort(arr):
         arr[j + 1] = key
 ```
 Time Complexity:
+```
 Best Case: O(n)
 Worst Case: O(n²)
-
+```
 Insertion Sort is efficient for small datasets
 and nearly sorted arrays.
