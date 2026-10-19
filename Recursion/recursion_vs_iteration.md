@@ -32,11 +32,12 @@ Iteration:
 Example (Factorial using Iteration):
 
 factorial(n):
+```
     result = 1
     for i from 1 to n:
         result = result * i
     return result
-
+```
 --------------------------------------------------
 
 Comparison:
