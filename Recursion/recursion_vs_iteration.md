@@ -60,8 +60,9 @@ Recursion: O(n) due to call stack
 Iteration: O(1)
 
 Key Points:
-
+```
 - Recursion is elegant and clean
 - Iteration is efficient and practical
 - Choose based on problem requirement
 - Many recursive problems can be converted to iterative form
+```
