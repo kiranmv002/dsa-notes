@@ -53,8 +53,9 @@ Iteration:
 - Sometimes harder to write for tree problems
 
 Time Complexity:
+```
 Both approaches usually have the same time complexity.
-
+```
 Space Complexity:
 Recursion: O(n) due to call stack
 Iteration: O(1)
