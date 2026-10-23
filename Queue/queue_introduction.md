@@ -29,11 +29,11 @@ Removes 10
 Queue becomes: [20]
 ```
 Pseudo Code:
-
+```
 Enqueue(x):
     rear = rear + 1
     queue[rear] = x
-
+```
 Dequeue():
     if queue is empty:
         print "Queue is empty"
