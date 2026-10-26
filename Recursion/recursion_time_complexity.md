@@ -51,10 +51,10 @@ O(2^n)
 Space Complexity in Recursion
 
 Recursion uses the call stack.
-
+```
 Example:
 factorial(n)
-
+```
 Each recursive call uses stack memory.
 
 Maximum stack depth = n
