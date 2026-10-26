@@ -29,9 +29,9 @@ Example: Factorial of a Number
 ```
 Factorial of n (n!) =
 n × (n-1) × (n-2) × ... × 1
-
+```
 Example:
-
+```
 5! = 5 × 4 × 3 × 2 × 1
 
 Recursive Definition:
