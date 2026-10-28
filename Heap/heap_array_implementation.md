@@ -49,10 +49,11 @@ Advantages of Array Implementation:
 - Memory efficient
 
 Time Complexity:
+```
 Insertion: O(log n)
 Deletion: O(log n)
 Access root: O(1)
-
+```
 Key Points:
 - Heap is always a Complete Binary Tree
 - Array representation is efficient
