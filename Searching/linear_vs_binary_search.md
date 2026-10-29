@@ -18,10 +18,11 @@ Binary Search:
 Comparison Table:
 
 Linear Search
+```
 - Order required: No
 - Time Complexity: O(n)
 - Approach: Sequential checking
-
+```
 Binary Search
 - Order required: Yes (sorted)
 - Time Complexity: O(log n)
