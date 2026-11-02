@@ -20,7 +20,7 @@ Final Result:
 [1, 2, 3, 4]
 ```
 Example 2: Insertion Sort
-
+```
 Array: [6, 2, 5, 1]
 
 Step 1:
@@ -37,6 +37,6 @@ Insert 1 → [1, 2, 5, 6]
 
 Final Result:
 [1, 2, 5, 6]
-
+```
 Conclusion:
 Examples make sorting algorithms easier to understand.
