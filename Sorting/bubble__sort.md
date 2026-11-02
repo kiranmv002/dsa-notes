@@ -13,7 +13,7 @@ How it works:
 
 Example:
 Array: [5, 3, 8, 2]
-
+```
 Pass 1:
 5 and 3 → swap → [3, 5, 8, 2]
 5 and 8 → no swap
@@ -28,7 +28,7 @@ Pass 3:
 
 Sorted Array:
 [2, 3, 5, 8]
-
+```
 Pseudo Code:
 BubbleSort(arr):
     for i from 0 to n-1:
