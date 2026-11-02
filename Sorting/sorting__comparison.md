@@ -8,8 +8,9 @@ Bubble Sort:
 - Repeatedly swaps adjacent elements
 - Easy to understand
 - Slow for large datasets
+```
 - Time Complexity: O(n²)
-
+```
 Selection Sort:
 - Selects the smallest element and places it correctly
 - Simple logic
