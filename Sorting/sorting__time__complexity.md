@@ -8,9 +8,10 @@ Understanding time complexity helps in selecting
 the most efficient sorting algorithm.
 
 Bubble Sort:
+```
 Best Case: O(n)  – when the array is already sorted
 Worst Case: O(n²)
-
+```
 Selection Sort:
 Best Case: O(n²)
 Worst Case: O(n²)
