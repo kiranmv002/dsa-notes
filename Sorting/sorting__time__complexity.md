@@ -18,9 +18,10 @@ Best Case: O(n²)
 Worst Case: O(n²)
 ```
 Insertion Sort:
+```
 Best Case: O(n) – when the array is nearly sorted
 Worst Case: O(n²)
-
+```
 Summary:
 - Bubble Sort is simple but inefficient for large data
 - Selection Sort has constant performance regardless of input order
