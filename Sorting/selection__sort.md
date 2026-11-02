@@ -13,7 +13,7 @@ How it works:
 
 Example:
 Array: [6, 3, 5, 2]
-
+```
 Pass 1:
 Minimum element is 2 → swap with 6
 Array becomes: [2, 3, 5, 6]
@@ -26,7 +26,7 @@ Minimum element is 5 → already in correct position
 
 Sorted Array:
 [2, 3, 5, 6]
-
+```
 Pseudo Code:
 SelectionSort(arr):
     for i from 0 to n-1:
