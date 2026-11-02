@@ -4,7 +4,7 @@ Examples help in understanding how sorting algorithms
 work step by step.
 
 Example : Bubble Sort
-
+```
 Array: [4, 1, 3, 2]
 
 Step 1:
@@ -18,7 +18,7 @@ Compare 4 and 2 → swap → [1, 3, 2, 4]
 
 Final Result:
 [1, 2, 3, 4]
-
+```
 Example 2: Insertion Sort
 
 Array: [6, 2, 5, 1]
