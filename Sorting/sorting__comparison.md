@@ -15,8 +15,9 @@ Selection Sort:
 - Selects the smallest element and places it correctly
 - Simple logic
 - Performance does not improve for sorted data
+```
 - Time Complexity: O(n²)
-
+```
 Insertion Sort:
 - Inserts elements into their correct position
 - Efficient for small or nearly sorted data
