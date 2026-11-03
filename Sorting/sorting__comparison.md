@@ -22,8 +22,9 @@ Insertion Sort:
 - Inserts elements into their correct position
 - Efficient for small or nearly sorted data
 - Faster than Bubble and Selection in such cases
+```
 - Time Complexity: O(n²)
-
+```
 Comparison Summary:
 - Bubble Sort → Very simple, least efficient
 - Selection Sort → Fewer swaps, still slow
