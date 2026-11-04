@@ -28,6 +28,7 @@ Sorted Array:
 [2, 3, 5, 6]
 ```
 Pseudo Code:
+```
 SelectionSort(arr):
     for i from 0 to n-1:
         minIndex = i
@@ -35,7 +36,7 @@ SelectionSort(arr):
             if arr[j] < arr[minIndex]:
                 minIndex = j
         swap(arr[i], arr[minIndex])
-
+```
 Time Complexity:
 Best Case: O(n²)
 Worst Case: O(n²)
