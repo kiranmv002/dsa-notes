@@ -26,10 +26,11 @@ Insertion Sort:
 - Time Complexity: O(n²)
 ```
 Comparison Summary:
+```
 - Bubble Sort → Very simple, least efficient
 - Selection Sort → Fewer swaps, still slow
 - Insertion Sort → Best among basic sorting algorithms
-
+```
 Conclusion:
 Choosing the right sorting algorithm depends
 on data size and how sorted the data already is.
