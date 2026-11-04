@@ -30,12 +30,13 @@ Sorted Array:
 [2, 3, 5, 8]
 ```
 Pseudo Code:
+```
 BubbleSort(arr):
     for i from 0 to n-1:
         for j from 0 to n-i-2:
             if arr[j] > arr[j+1]:
                 swap(arr[j], arr[j+1])
-
+```
 Time Complexity:
 Best Case: O(n)
 Worst Case: O(n²)
