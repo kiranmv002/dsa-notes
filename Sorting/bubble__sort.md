@@ -38,9 +38,10 @@ BubbleSort(arr):
                 swap(arr[j], arr[j+1])
 ```
 Time Complexity:
+```
 Best Case: O(n)
 Worst Case: O(n²)
-
+```
 Bubble Sort is easy to understand but not efficient
 for large datasets.
 
