@@ -38,8 +38,10 @@ SelectionSort(arr):
         swap(arr[i], arr[minIndex])
 ```
 Time Complexity:
+```
 Best Case: O(n²)
 Worst Case: O(n²)
+```
 
 Selection Sort is easy to understand
 but not suitable for large datasets.
