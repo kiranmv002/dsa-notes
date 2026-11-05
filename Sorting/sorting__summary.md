@@ -5,10 +5,11 @@ Sorting algorithms are used to arrange data
 in a specific order, usually ascending or descending.
 
 Algorithms Covered:
+```
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
-
+```
 Key Points:
 - Bubble Sort is easy but inefficient for large datasets
 - Selection Sort performs the same in all cases
