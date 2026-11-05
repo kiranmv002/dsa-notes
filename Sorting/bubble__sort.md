@@ -12,8 +12,9 @@ How it works:
 - Continue passes until the list is sorted
 
 Example:
-Array: [5, 3, 8, 2]
 ```
+Array: [5, 3, 8, 2]
+
 Pass 1:
 5 and 3 → swap → [3, 5, 8, 2]
 5 and 8 → no swap
