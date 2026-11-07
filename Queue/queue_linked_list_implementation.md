@@ -42,7 +42,7 @@ Removes 10
 Front → 20 → null
 ```
 Pseudo Code:
-
+```
 Enqueue(x):
     create newNode
     newNode.data = x
@@ -52,7 +52,7 @@ Enqueue(x):
     else:
         rear.next = newNode
         rear = newNode
-
+```
 Dequeue():
     if front == null:
         print "Queue is empty"
