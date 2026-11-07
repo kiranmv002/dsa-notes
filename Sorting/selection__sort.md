@@ -12,8 +12,9 @@ How it works:
 - Repeat until the list is sorted
 
 Example:
-Array: [6, 3, 5, 2]
 ```
+Array: [6, 3, 5, 2]
+
 Pass 1:
 Minimum element is 2 → swap with 6
 Array becomes: [2, 3, 5, 6]
