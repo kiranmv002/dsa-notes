@@ -65,9 +65,10 @@ Dequeue():
         front = front + 1
 ```
 Time Complexity:
+```
 Enqueue Operation: O(1)
 Dequeue Operation: O(1)
-
+```
 Key Points:
 - Simple to implement
 - Uses fixed-size memory
