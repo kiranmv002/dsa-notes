@@ -54,6 +54,7 @@ Enqueue(x):
         rear = newNode
 ```
 Dequeue():
+```
     if front == null:
         print "Queue is empty"
     else:
@@ -62,7 +63,7 @@ Dequeue():
         if front == null:
             rear = null
         delete temp
-
+```
 Time Complexity:
 
 Enqueue Operation: O(1)
