@@ -46,7 +46,7 @@ Delete first node:
 10 → 20 → 30 → null
 ```
 Pseudo Code:
-
+```
 InsertAtBeginning(x):
     create newNode
     newNode.data = x
@@ -58,7 +58,7 @@ DeleteFromBeginning():
         print "List is empty"
     else:
         head = head.next
-
+```
 Time Complexity:
 Insertion at beginning: O(1)
 Deletion at beginning: O(1)
