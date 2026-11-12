@@ -17,12 +17,13 @@ Types of Linked List:
 - Circular Linked List
 
 Example:
+```
 Nodes: 10 → 20 → 30 → null
 
 Here,
 10 is the head node
 30 is the last node
-
+```
 Pseudo Code:
 ```
 CreateNode(x):
