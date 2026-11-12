@@ -38,12 +38,13 @@ Types of Deletion:
 3. Delete a specific node
 
 Example (Delete from Beginning):
+```
 Initial List:
 5 → 10 → 20 → 30 → null
 
 Delete first node:
 10 → 20 → 30 → null
-
+```
 Pseudo Code:
 
 InsertAtBeginning(x):
