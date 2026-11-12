@@ -60,9 +60,10 @@ DeleteFromBeginning():
         head = head.next
 ```
 Time Complexity:
+```
 Insertion at beginning: O(1)
 Deletion at beginning: O(1)
-
+```
 Key Points:
 - Linked List allows dynamic memory allocation
 - Insertion and deletion are efficient
