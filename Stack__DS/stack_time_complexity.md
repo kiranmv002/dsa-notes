@@ -47,10 +47,11 @@ Pop():
         top = top - 1
 ```
 Time Complexity:
+```
 Push Operation: O(1)
 Pop Operation: O(1)
 Peek Operation: O(1)
-
+```
 Key Points:
 - Stack operations are very fast
 - No traversal is required
