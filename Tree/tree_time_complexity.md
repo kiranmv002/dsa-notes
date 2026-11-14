@@ -34,13 +34,13 @@ Common Tree Operations:
 - Worst case: O(n)
 
 Example:
-
+```
 Balanced Tree:
 Height is small → Faster operations
 
 Skewed Tree:
 Height is large → Slower operations
-
+```
 Key Points:
 - Performance depends on tree height
 - Balanced trees are more efficient
