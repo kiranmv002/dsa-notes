@@ -24,6 +24,7 @@ Middle = 11 → key is smaller → shift left
 Middle = 9 → element found
 ```
 Pseudo Code:
+```
 BinarySearch(arr, key):
     start = 0
     end = size(arr) - 1
@@ -39,7 +40,7 @@ BinarySearch(arr, key):
             start = mid + 1
 
     return -1
-
+```
 Time Complexity:
 - Best Case: O(1)
 - Worst Case: O(log n)
