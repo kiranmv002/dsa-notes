@@ -32,13 +32,13 @@ Traversal:
 - Time Complexity: O(n)
 
 Pseudo Code (Traversal):
-
+```
 TraverseList():
     temp = head
     while temp != null:
         print temp.data
         temp = temp.next
-
+```
 Key Points:
 - Fast insertion and deletion at beginning
 - Slower access compared to arrays
