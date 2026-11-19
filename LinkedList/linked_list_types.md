@@ -33,10 +33,11 @@ null ← 10 ↔ 20 ↔ 30 → null
 - No node points to null
 
 Example:
+```
 10 → 20 → 30
 ↑             ↓
 ← ← ← ← ← ← ←
-
+```
 Pseudo Code (Traversal in Singly Linked List):
 
 TraverseList():
