@@ -44,7 +44,7 @@ Remove Song2:
 Song1 → Song3 → Song4 → null
 ```
 Pseudo Code (Insert at End):
-
+```
 InsertAtEnd(x):
     create newNode
     newNode.data = x
@@ -56,7 +56,7 @@ InsertAtEnd(x):
         while temp.next != null:
             temp = temp.next
         temp.next = newNode
-
+```
 Time Complexity:
 Insertion: O(n)
 Deletion: O(n)
