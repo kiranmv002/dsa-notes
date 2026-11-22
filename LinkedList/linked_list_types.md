@@ -16,10 +16,10 @@ Types of Linked List:
 1. Singly Linked List
 - Each node contains data and a link to the next node
 - Traversal is possible in one direction only
-
+```
 Example:
 10 → 20 → 30 → null
-
+```
 2. Doubly Linked List
 - Each node contains data, a link to the next node,
   and a link to the previous node
