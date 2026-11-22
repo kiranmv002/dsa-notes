@@ -24,10 +24,10 @@ Example:
 - Each node contains data, a link to the next node,
   and a link to the previous node
 - Traversal is possible in both directions
-
+```
 Example:
 null ← 10 ↔ 20 ↔ 30 → null
-
+```
 3. Circular Linked List
 - The last node points back to the first node
 - No node points to null
