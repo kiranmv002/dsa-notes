@@ -42,9 +42,10 @@ Dequeue():
         front = front + 1
 ```
 Time Complexity:
+```
 Enqueue Operation: O(1)
 Dequeue Operation: O(1)
-
+```
 Key Points:
 - Queue works on FIFO principle
 - Insertion and deletion are efficient
