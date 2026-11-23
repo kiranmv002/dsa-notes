@@ -35,7 +35,7 @@ Removes 10
 Queue becomes: [20, 30, 40]
 ```
 Pseudo Code:
-
+```
 Enqueue(x):
 
 if rear == MAX-1
@@ -59,3 +59,4 @@ else
     front = front + 1
 
 return item
+```
